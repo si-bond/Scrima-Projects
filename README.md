@@ -1,1 +1,1 @@
-# Projects fron Front End Scrimba
+# Projects from Front End Scrimba
