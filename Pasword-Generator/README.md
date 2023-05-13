@@ -4,7 +4,7 @@
 + Generate two random passwords
 + Select the length
 
-###Technology
+### Technology
 + HTML
 + CSS
 + JS
